@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MyFisrtReactProject/static/css/main.9aac007f.css",
-    "main.js": "/MyFisrtReactProject/static/js/main.844c8315.js",
-    "index.html": "/MyFisrtReactProject/index.html",
-    "static/media/delete.svg": "/MyFisrtReactProject/static/media/delete.a53e22036f5f02bda3f291072d6c5f80.svg",
-    "static/media/check.svg": "/MyFisrtReactProject/static/media/check.e4fe8ec6eaeeda42762dd311814fc282.svg",
-    "main.9aac007f.css.map": "/MyFisrtReactProject/static/css/main.9aac007f.css.map",
-    "main.844c8315.js.map": "/MyFisrtReactProject/static/js/main.844c8315.js.map"
+    "main.css": "/todos-react-project/static/css/main.9aac007f.css",
+    "main.js": "/todos-react-project/static/js/main.2281c378.js",
+    "index.html": "/todos-react-project/index.html",
+    "static/media/delete.svg": "/todos-react-project/static/media/delete.a53e22036f5f02bda3f291072d6c5f80.svg",
+    "static/media/check.svg": "/todos-react-project/static/media/check.e4fe8ec6eaeeda42762dd311814fc282.svg",
+    "main.9aac007f.css.map": "/todos-react-project/static/css/main.9aac007f.css.map",
+    "main.2281c378.js.map": "/todos-react-project/static/js/main.2281c378.js.map"
   },
   "entrypoints": [
     "static/css/main.9aac007f.css",
-    "static/js/main.844c8315.js"
+    "static/js/main.2281c378.js"
   ]
 }
