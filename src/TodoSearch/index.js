@@ -1,14 +1,10 @@
 import React from 'react';
-import { TodoContext } from '../TodoContext';
 import './TodoSearch.css'
 
 
-function TodoSearch() {
-
-  const {searchValue, setSearchValue, setTodos, todos} = React.useContext(TodoContext);
+function TodoSearch({searchValue, setSearchValue, loading}) {
 
     const onSearchValueChane = (event) => {
-        
         setSearchValue(event.target.value);
     }
   return (
@@ -17,6 +13,7 @@ function TodoSearch() {
         placeholder="Search"
         value={searchValue}
         onChange={onSearchValueChane}
+        disabled={loading}
     />
   );
 }

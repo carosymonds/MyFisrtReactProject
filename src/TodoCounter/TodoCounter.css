@@ -4,4 +4,6 @@
     margin: 0;
     padding: 48px;
   }
-  
+  .TodoCounter--loading{
+    color: red;
+  }

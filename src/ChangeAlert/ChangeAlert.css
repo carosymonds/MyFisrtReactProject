@@ -1,0 +1,11 @@
+.ChangeAlert button{
+    background-color:#acd9b2;
+    border-radius: 8px;
+    border: none;
+    color: var(--white);
+    width: 100%;
+    cursor: pointer;
+    font-size: var(--md);
+    font-weight: bold;
+    height: 50px;
+}
